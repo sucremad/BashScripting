@@ -1,9 +1,0 @@
-Files and directories in this path:
-total 16
-drwxr-xr-x 1 hidden hidden   94 Oca  4 00:00 .
-drwxr-xr-x 1 hidden hidden   66 Oca  3 21:05 ..
--rwxr-xr-x 1 hidden hidden 1483 Oca  4 00:00 bash-1.sh
--rw-r--r-- 1 hidden hidden   28 Oca  3 23:24 bash-2.sh
--rw-r--r-- 1 hidden hidden 3217 Oca  3 23:59 env_variables.txt
--rw-r--r-- 1 hidden hidden   36 Oca  4 00:00 file.txt
-drwxr-xr-x 1 hidden hidden  164 Oca  3 12:14 .git
