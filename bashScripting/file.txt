@@ -1,0 +1,6 @@
+Files and directories in this path:
+total 8
+drwxr-xr-x 1 hidden hidden  34 Oca  3 11:58 .
+drwxr-xr-x 1 hidden hidden  42 Oca  3 11:24 ..
+-rwxr-xr-x 1 hidden hidden 617 Oca  3 11:58 bash-1.sh
+-rw-r--r-- 1 hidden hidden  36 Oca  3 11:58 file.txt
