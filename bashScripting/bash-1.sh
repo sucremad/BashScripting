@@ -3,6 +3,12 @@
 echo "Bash Scripting"  # prints 
 echo # for new line
 
+var="bla bla"
+
+echo $var    # bla bla
+echo "$var"  # bla bla
+echo '$var'  # $var
+echo
 # You can use commands in the same line with ';'
 echo "You are in $(pwd)"; echo
 #Same: echo "You are in `pwd`"
