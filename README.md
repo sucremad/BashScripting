@@ -1,5 +1,5 @@
-# Fundamentals of Bash Scripting
-----
+## Fundamentals of Bash Scripting
+
 
 
 * [bash-1](bashScripting/bash-1.sh) - _echo, comments, variables, heredoc_ 
